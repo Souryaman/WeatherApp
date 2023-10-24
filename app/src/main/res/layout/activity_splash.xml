@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="48dp"
         android:fontFamily="@font/merriweathersans_bold"
-        android:text="Weather Matters,\nWe've Got the Details"
+        android:text="Weather Matters,\nWe've Got All the Details"
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textSize="25sp"
